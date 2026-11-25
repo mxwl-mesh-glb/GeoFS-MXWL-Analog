@@ -31,6 +31,10 @@ One thing to keep in mind:
 
 The bloom can make your game very bright in daytime. So adjust the "Threshold" under the main bloom option (0 at night and 100 during daytime)
 
+*This repository uses the GNU Affero General Public License v3.0 (AGPLv3). Please read the license before distributing in any way (pls)
+
+anyways....
+
 ## Images from this shader:
 
 <img width="1192" height="630" alt="Screenshot 2026-11-24 220828" src="https://github.com/user-attachments/assets/0ebdc579-7ae7-4dd9-8909-5c3fca0a6840" />
