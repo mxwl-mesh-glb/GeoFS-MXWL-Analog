@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         GeoFS VHS Shader
+// @name         GeoFS-MXWL-Analog
 // @namespace    https://github.com/vhs-geofs
-// @version      3.3.0
-// @description  VHS post-process shader for GeoFS
-// @author       vhs-geofs
+// @version      0.1.1
+// @description  VHS shader for GeoFS
+// @author       mxwl-mesh (MaxwellTheCat, mxwl-mesh.glb)
 // @match        https://www.geo-fs.com/geofs.php*
 // @match        https://*.geo-fs.com/geofs.php*
 // @grant        none
@@ -386,6 +386,8 @@
         uniforms: { h_jitter: () => CFG.h_jitter, vhs_time: () => _time },
       });
 
+// why are you reading the script?
+
       const lumaGrainStage = new Cesium.PostProcessStage({
         name: 'vhs_luma_grain',
         fragmentShader: `
@@ -470,6 +472,8 @@
         `,
         uniforms: { h_smear: () => CFG.h_smear, comet: () => CFG.comet, vhs_time: () => _time },
       });
+
+// Oh....What are you doing here?
 
       scene.postProcessStages.add(bloomStage);
       scene.postProcessStages.add(chromaStage);
