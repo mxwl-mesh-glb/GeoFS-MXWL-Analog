@@ -1,8 +1,10 @@
 # GeoFS-MXWL-Analog
 
+<img width="1063" height="607" alt="Screenshot 2026-11-24 221218" src="https://github.com/user-attachments/assets/2e194e01-1699-4c17-82e8-c78af572b01f" />
+
 ## Current version: 0.1.1
 
-GeoFS-MXWL-Analog is a GeoFS shader that adds VHS to the game.
+GeoFS-MXWL-Analog is a VHS shader for GeoFS
 
 ### This shader is not a HUD overlay so it only works with GeoFS 3.9 because it uses its shader language
 
@@ -21,15 +23,13 @@ GeoFS-MXWL-Analog is a GeoFS shader that adds VHS to the game.
 - **Smear Noise**
 - **Comet Tails**
 
-Each and every one of them can be disabled if you want to.
+Each and every one of them can be edited or disabled.
 
 One thing to keep in mind:
 
-The bloom can make your game very bright in daytime. So adjust the "Threshold" under the main bloom option (0 is in night and 100 in the day)
+The bloom can make your game very bright in daytime. So adjust the "Threshold" under the main bloom option (0 at night and 100 during daytime)
 
-Images from this shader:
-
-from the latest script:
+## Images from this shader:
 
 <img width="1192" height="630" alt="Screenshot 2026-11-24 220828" src="https://github.com/user-attachments/assets/0ebdc579-7ae7-4dd9-8909-5c3fca0a6840" />
 
@@ -45,7 +45,7 @@ from the latest script:
 
 <img width="1183" height="672" alt="Screenshot 2026-11-24 220700" src="https://github.com/user-attachments/assets/0783fc84-1053-4f20-b5b3-dbf5a556ad2d" />
 
-old but honorable ones:
+Old in-development images:
 
 <img width="1450" height="667" alt="Screenshot 2026-11-22 231141" src="https://github.com/user-attachments/assets/c69eef06-fa65-46b8-b70f-317c5d07cb06" />
 
