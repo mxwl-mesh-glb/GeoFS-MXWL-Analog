@@ -6,7 +6,9 @@
 
 GeoFS-MXWL-Analog is a VHS shader for GeoFS
 
-### This shader is not a HUD overlay so it only works with GeoFS 3.9 because it uses its shader language
+The shader still looks good in low graphics settings
+
+### This is not an HUD overlay so it only works with GeoFS 3.9 as it uses its shader language
 
 ## Features:
 
