@@ -386,8 +386,6 @@
         uniforms: { h_jitter: () => CFG.h_jitter, vhs_time: () => _time },
       });
 
-// why are you reading the script?
-
       const lumaGrainStage = new Cesium.PostProcessStage({
         name: 'vhs_luma_grain',
         fragmentShader: `
