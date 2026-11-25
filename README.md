@@ -37,9 +37,9 @@ The bloom can make your game very bright in daytime. So adjust the "Threshold" u
 
 <img width="1063" height="607" alt="Screenshot 2026-11-24 221218" src="https://github.com/user-attachments/assets/2e194e01-1699-4c17-82e8-c78af572b01f" />
 
-<img width="1298" height="623" alt="Screenshot 2026-11-24 221158" src="https://github.com/user-attachments/assets/542fbff5-722c-4e99-a27e-4cd46a244c9f" />
-
 <img width="1201" height="615" alt="Screenshot 2026-11-24 220423" src="https://github.com/user-attachments/assets/b510192f-c651-4814-8f0b-86229dac798e" />
+
+<img width="1298" height="623" alt="Screenshot 2026-11-24 221158" src="https://github.com/user-attachments/assets/542fbff5-722c-4e99-a27e-4cd46a244c9f" />
 
 <img width="1512" height="758" alt="Screenshot 2026-11-24 220737" src="https://github.com/user-attachments/assets/ff6b1e7f-ac33-400b-a2fa-55224d764b66" />
 
