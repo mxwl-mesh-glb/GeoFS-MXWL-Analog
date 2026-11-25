@@ -4,6 +4,7 @@
 // @version      0.1.1
 // @description  VHS shader for GeoFS
 // @author       mxwl-mesh (MaxwellTheCat, mxwl-mesh.glb)
+// @license      AGPL-3.0-or-later
 // @match        https://www.geo-fs.com/geofs.php*
 // @match        https://*.geo-fs.com/geofs.php*
 // @grant        none
