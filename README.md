@@ -4,7 +4,7 @@
 
 ## Current version: 0.1.1
 
-GeoFS-MXWL-Analog is a VHS shader for GeoFS
+GeoFS-MXWL-VHS is a VHS shader for GeoFS
 
 The shader still looks good in low graphics settings
 
