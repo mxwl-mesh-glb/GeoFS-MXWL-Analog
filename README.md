@@ -1,4 +1,4 @@
-# GeoFS-MXWL-Analog
+# GeoFS-MXWL-VHS (Analog)
 
 <img width="1063" height="607" alt="Screenshot 2026-11-24 221218" src="https://github.com/user-attachments/assets/2e194e01-1699-4c17-82e8-c78af572b01f" />
 
