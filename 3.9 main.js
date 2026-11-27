@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GeoFS-MXWL-Analog
+// @name         GeoFS-MXWL-VHS
 // @namespace    https://github.com/mxwl-mesh-glb
 // @version      0.1.1
 // @description  VHS shader for GeoFS
